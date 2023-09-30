@@ -1,0 +1,20 @@
+Ellipse x= 1 y= 2 color= magenta width= 200 height= 300 
+Rectangle x= 3 y= 4 color= yellow width= 500 height= 600 
+Star x= 5 y= 6 color= cyan width= 200 height= 700 vertex= 360 
+Polygon x= 10 y= 5 color= yellow width= 50 height= 43 vertex= 43 
+Text x= 15 y= 10 color= magenta font_size= 10 text= SomeText 
+Ellipse x= 1 y= 2 color= magenta width= 200 height= 300 
+Rectangle x= 3 y= 4 color= yellow width= 500 height= 600 
+Star x= 5 y= 6 color= cyan width= 200 height= 700 vertex= 360 
+Polygon x= 10 y= 5 color= yellow width= 50 height= 43 vertex= 43 
+Text x= 15 y= 10 color= magenta font_size= 10 text= SomeText 
+Ellipse x= 1 y= 2 color= magenta width= 200 height= 300 
+Rectangle x= 3 y= 4 color= yellow width= 500 height= 600 
+Star x= 5 y= 6 color= cyan width= 200 height= 700 vertex= 360 
+Polygon x= 10 y= 5 color= yellow width= 50 height= 43 vertex= 43 
+Text x= 15 y= 10 color= magenta font_size= 10 text= SomeText 
+Ellipse x= 1 y= 2 color= magenta width= 200 height= 300 
+Rectangle x= 3 y= 4 color= yellow width= 500 height= 600 
+Star x= 5 y= 6 color= cyan width= 200 height= 700 vertex= 9 
+Polygon x= 10 y= 5 color= yellow width= 50 height= 43 vertex= 4 
+Text x= 15 y= 10 color= magenta font_size= 10 text= SomeText 

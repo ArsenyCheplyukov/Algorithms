@@ -1,0 +1,7 @@
+Andrey 19 male 2 8
+Haley 17 female 1 9
+Hary 20 male 3 5
+Issac 21 male 4 10
+Gary 24 male 5 6
+Ann 18 Female 1 7 
+Frank 19 male 2 9 

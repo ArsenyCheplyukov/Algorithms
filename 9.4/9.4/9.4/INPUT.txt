@@ -1,0 +1,9 @@
+#include <iostream>
+int main() {
+    int firstNumber, secondNumber, sumOfTwoNumbers;
+    std::cout << "Enter_two_integers:";
+    std::cin >> firstNumber >> secondNumber;
+    sumOfTwoNumbers = firstNumber + secondNumber;
+    std::cout << firstNumber << "+" <<  secondNumber << "=" << sumOfTwoNumbers;     
+    return 0;
+}
